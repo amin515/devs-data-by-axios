@@ -1,0 +1,100 @@
+
+.devs-data-full h4:nth-child(even){
+background-color: black;
+color: white;
+border-radius: 8px 8px 8px 8px;
+padding: 2px 0;
+}
+.devs-data-full h4:nth-child(odd){
+background-color:aqua ;
+color: rgb(10, 10, 10);
+border-radius: 8px 8px 8px 8px;
+padding: 2px 0;
+}
+.devs-data-full h5:nth-child(even){
+background-color:aqua ;
+color: rgb(10, 10, 10);
+border-radius: 8px 8px 8px 8px;
+padding: 4.5px 0;
+}
+.devs-data-full h5:nth-child(odd){
+background-color:rgb(8, 8, 8) ;
+color: rgb(255, 255, 255);
+border-radius: 8px 8px 8px 8px;
+padding: 4.5px 0;
+}
+.devs-data-full img{
+    margin-bottom: 40px !important;
+}
+
+
+.card-body {
+    flex: 1 1 auto;
+    padding: 1rem 1rem;
+    background: #040c23;
+}
+
+
+#devs_list td{
+    color: white;
+}
+.top_heading th{
+    color: white;
+}
+
+.modal-header {
+   position: relative;
+}
+.edit-btn {
+    position: absolute;
+    top: 1px;
+    right: 7px;
+}
+
+.card-header {
+    background: #0f0f0fe0 !important;
+}
+
+.new-devs{
+    transform: translateY(-200px);
+    opacity: 0;
+    pointer-events: none;
+    transition: ease-in-out .4s;
+}
+.new-devs.active{
+    transform: translateY(0px);
+    opacity: 1;
+    pointer-events: auto;
+}
+
+.table_view{
+    position: relative;
+}
+#cls_btn{
+    position: absolute;
+    top: 5px;
+    right: 7px;
+}
+
+
+#devs_del{
+    position: relative;
+}
+#devs_del .del_a {
+    position: absolute;
+    right: 72px;
+}
+#devs_del .del_b {
+    position: absolute;
+    right: 25px;
+}
+
+/* #devs_del button {
+    position: absolute;
+    right: 8px;
+    bottom: 5px;
+}
+#devs_del button:nth-child(1) {
+    right: 8px;
+    bottom: 5px;
+} */

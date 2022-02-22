@@ -1,0 +1,94 @@
+{
+  "developer": [
+    {
+      "id": 2,
+      "name": "Nur Amin",
+      "phone": "6014923187",
+      "email": "undefined",
+      "location": "Kumilla",
+      "photo": "https://media.istockphoto.com/photos/fit-man-standing-outdoors-in-a-city-picture-id1299360127?b=1&k=20&m=1299360127&s=170667a&w=0&h=1Rvw_UPTnj1LkB543cuCjiLM0xbIdjjin0rw6yaL8bc=",
+      "skillId": "1",
+      "gender": "male"
+    },
+    {
+      "id": 3,
+      "name": "Shafiq",
+      "phone": "60149231875",
+      "email": "developeramin32@gmail.com",
+      "location": "bogura",
+      "photo": "https://media.istockphoto.com/photos/fit-man-standing-outdoors-in-a-city-picture-id1299360127?b=1&k=20&m=1299360127&s=170667a&w=0&h=1Rvw_UPTnj1LkB543cuCjiLM0xbIdjjin0rw6yaL8bc=",
+      "skillId": "6",
+      "gender": "male"
+    },
+    {
+      "id": 4,
+      "name": "Shafiq",
+      "phone": "6014923187",
+      "email": "nil.somudra99@gmail.com",
+      "location": "Dhaka",
+      "photo": "https://us.123rf.com/450wm/luismolinero/luismolinero1909/luismolinero190917934/130592146-handsome-young-man-in-pink-shirt-over-isolated-blue-background-keeping-the-arms-crossed-in-frontal-p.jpg?ver=6",
+      "skillId": "3",
+      "gender": "female"
+    },
+    {
+      "id": 5,
+      "name": "Abu Sayeed",
+      "phone": "60149231875",
+      "email": "nil.somudra51@gmail.com",
+      "location": "Kumilla",
+      "photo": "https://media.istockphoto.com/photos/fit-man-standing-outdoors-in-a-city-picture-id1299360127?b=1&k=20&m=1299360127&s=170667a&w=0&h=1Rvw_UPTnj1LkB543cuCjiLM0xbIdjjin0rw6yaL8bc=",
+      "skillId": "5",
+      "gender": "male"
+    },
+    {
+      "id": 6,
+      "name": "Julekha Banu",
+      "phone": "+965854125565",
+      "email": "ju-245@gnal.com",
+      "location": "Malaysia",
+      "photo": "https://media.istockphoto.com/photos/headshot-of-mature-50-years-old-asian-business-woman-on-grey-picture-id1317784594?b=1&k=20&m=1317784594&s=170667a&w=0&h=BV1ABS-tDluO-Qa0myWpstZFJd6navrs7OezTyNHnVg=",
+      "skillId": "6",
+      "gender": "female"
+    },
+    {
+      "id": 7,
+      "name": "Nur Amin",
+      "phone": "0177965852",
+      "email": "amin.abcgroup@yahoo.com",
+      "location": "Rangamati",
+      "photo": "https://thumbs.dreamstime.com/b/handsome-man-hair-style-beard-beauty-face-portrait-fashion-male-model-black-hair-high-resolution-handsome-man-125031765.jpg",
+      "skillId": "1",
+      "gender": "male"
+    }
+  ],
+  "skill": [
+    {
+      "id": 1,
+      "name": "MERN Stack"
+    },
+    {
+      "id": 2,
+      "name": "Laravel Developer"
+    },
+    {
+      "id": 3,
+      "name": "Django Developer"
+    },
+    {
+      "id": 4,
+      "name": "Python Developer"
+    },
+    {
+      "id": 5,
+      "name": "React Developer"
+    },
+    {
+      "id": 6,
+      "name": "IOS Developer"
+    },
+    {
+      "id": 7,
+      "name": "Android"
+    }
+  ]
+}
